@@ -1,0 +1,6 @@
+*.sdf
+ConsoleApplication1/Debug/
+ConsoleApplication1/ConsoleApplication1/Debug/vc110.pdb
+ConsoleApplication1/ConsoleApplication1/Debug/
+ConsoleApplication1/ipch/
+*.suo
